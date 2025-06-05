@@ -7,7 +7,7 @@ This repository contains the implementation and evaluation of the Support Vector
 ## 📂 Dataset
 
 - **Name**: Breast Cancer Wisconsin Diagnostic Dataset
-- **Source**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)) or `sklearn.datasets`
+- **Source**: [UCI Machine Learning Repository](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)) or `sklearn.datasets`
 - **Format**: CSV (`breast-cancer.csv`)
 - **Target Variable**: `diagnosis` (converted: `M=1`, `B=0`)
 
@@ -87,7 +87,7 @@ This repository contains the implementation and evaluation of the Support Vector
 
 ## 📮 Submission
 
-- **GitHub Repo Link:** Paste your repo link here before submission  
+- **GitHub Repo Link:** https://github.com/kannatinaveena/Task-7
 - **Submit via Internship Portal:** before 10:00 PM on the due date.
 
 ---
